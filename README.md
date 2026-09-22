@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Sami Yıldız Banner" style="max-width: 100%; height: auto;" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Sami Yıldız</h1>
 <h3 align="center">Full Stack Developer | Web Security</h3>
 
