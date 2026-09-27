@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Başlıksız - 22 Eylül 2026 16.56.04.png" alt="Sami Yıldız Banner" style="max-width: 100%; height: auto;" />
+  <img src="./Başlıksız - 22 Eylül 2026 16.56.04.png" alt="Sami Yıldız Banner" style="max-width: 100%; height: auto;" />
 </p>
 
 <h3 align="left">About me:</h3>
