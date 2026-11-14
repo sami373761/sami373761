@@ -4,13 +4,13 @@
 
 </p>
 
-## Hi there, I'm Sami Yıldız! 👋
+## Hi there, I'm Sami Yıldız! 
 
 Full-stack software developer with experience in modern web technologies and backend architectures. Combines software engineering fundamentals with practical knowledge in application security and secure coding standards.
 
 ---
 
-### 🛠️ Technologies & Tools
+### Technologies & Tools
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -20,7 +20,7 @@ Full-stack software developer with experience in modern web technologies and bac
 
 ---
 
-### 🌟 Let's Connect!
+### Let's Connect!
 
 I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out to me!
 
