@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img src="banner3.png" alt="Sami Yıldız Banner" style="max-width: 100%; height: auto;" />
+  <img src="banner4.png" alt="Sami Yıldız Banner" style="max-width: 100%; height: auto;" />
 
 </p>
 
