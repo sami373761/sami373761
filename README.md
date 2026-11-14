@@ -12,6 +12,7 @@
 <a href="https://stackoverflow.com/users/29154067" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="29154067" height="30" width="40" /></a>
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sami373761&layout=compact&theme=tokyonight&hide_border=true)
 
 <h3 align="left">Tech Stack:</h3>
 <p align="left">
