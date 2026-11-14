@@ -1,5 +1,7 @@
 <p align="center">
+
   <img src=".banner3.png" alt="Sami Yıldız Banner" style="max-width: 100%; height: auto;" />
+
 </p>
 
 ## Hi there, I'm Sami Yıldız! 👋
