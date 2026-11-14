@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Başlıksız%20-%2022%20Eylül%202026%2016.56.04.png" alt="Sami Yıldız Banner" style="max-width: 100%; height: auto;" />
+  <img src=".banner3.png" alt="Sami Yıldız Banner" style="max-width: 100%; height: auto;" />
 </p>
 
 ## Hi there, I'm Sami Yıldız! 👋
