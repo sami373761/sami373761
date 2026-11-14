@@ -6,10 +6,6 @@
 
 ## Hi there, I'm Sami Yıldız! 👋
 
-🟢 **Based in Istanbul, Turkey** | 💡 **Passionate about building secure & scalable web architectures**
-
-`Full Stack Developer | Web Security | DevSecOps`
-
 Full-stack software developer with experience in modern web technologies and backend architectures. Combines software engineering fundamentals with practical knowledge in application security and secure coding standards.
 
 ---
