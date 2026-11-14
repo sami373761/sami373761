@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Başlıksız - 22 Eylül 2026 16.56.04.png" alt="Sami Yıldız Banner" width="100%" />
+  <img src="./Başlıksız%20-%2022%20Eylül%202026%2016.56.04.png" alt="Sami Yıldız Banner" style="max-width: 100%; height: auto;" />
 </p>
 
 ## Hi there, I'm Sami Yıldız! 👋
@@ -40,5 +40,3 @@ I'm always open to collaborating on interesting projects or discussing new ideas
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
----
