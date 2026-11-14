@@ -18,7 +18,7 @@ Full-stack software developer with experience in modern web technologies and bac
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,linux,bash,docker,kubernetes,nginx,git,python,django,nodejs,php,cpp,js,ts,react,postgres,mysql&perline=9" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=aws,linux,bash,docker,nginx,git,python,django,nodejs,php,cpp,js,ts,postgres,mysql&perline=9" alt="Tech Stack" />
   </a>
 </p>
 
@@ -29,6 +29,9 @@ Full-stack software developer with experience in modern web technologies and bac
 I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out to me!
 
 <p align="left">
+  <a href="mailto:samiylz83@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   <a href="https://linkedin.com/in/sami-yildiz" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -37,8 +40,5 @@ I'm always open to collaborating on interesting projects or discussing new ideas
   </a>
   <a href="https://stackoverflow.com/users/29154067" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
-  </a>
-  <a href="mailto:samiylz83@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
