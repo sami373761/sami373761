@@ -14,7 +14,7 @@ Full-stack software developer with experience in modern web technologies and bac
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,linux,bash,docker,nginx,git,python,django,nodejs,php,cpp,js,ts,postgres,mysql&perline=15" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=aws,linux,docker,bash,nginx,git,python,django,nodejs,php,cpp,js,postgres,ts,mysql&perline=15" alt="Tech Stack" />
   </a>
 </p>
 
